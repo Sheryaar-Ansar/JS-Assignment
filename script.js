@@ -1,27 +1,31 @@
 // Q.1 - Write a Script to greet your website visitor using JS alert box. (Welcome to Our Website)
-    // Answer
+    //                          Answer
+    
     // alert('Welcome to Our Website')
 
 
 // Q.2 - Write a script to display message on your web page. (Error! Please Enter a valid password)
-    // Answer
+    //                          Answer
+
     // console.log('Please Enter a Valid Password')
 
 
 // Q.3 - Write a script to display message on your website:(Hint: Use line break)
-    // Answer
+    //                          Answer
+
     // alert('Welcome to Our Website \nScroll down to see Our Website')
 
 
 // Q.4 - Write a script to display message in sequence(3 Alerts)
-    // Answer
+    //                          Answer
+
     // alert('This is a First Alert Message')
     // alert('This is a Second Alert Message')
     // alert('This is a Third Alert Message')
 
 
 // Q.5 - Make use of alerts in your  new/existing HTML & CSS Project
-    // Answer
+    //                          Answer
 
 
 // Q.6 - Practice placement of element in following sections of your project in exercise 5:
@@ -29,16 +33,19 @@
     // b.Body(before your page's HTML)
     // c. Body(inside your page's HTML)
     // d. Body(after your page's HTML)
-        // Answer
+        //                          Answer
 
-        
+
+
 // Q.7 - Declare a variable called username
-    // Answer
+    //                          Answer
+
     // var username
 
 
 // Q.8 - Declare a variable called myNAme & assign to it a string that represents your Full Name
-    // Answer
+    //                          Answer
+
     // var myName = 'Sheheryaar Ansar'
 
 
@@ -46,13 +53,15 @@
     // a. Declare a JS variable, titled message.
     // b. Assign "Hello World" to variable message.
     // c. Display the message in alert box.
-        // Answer
+        //                          Answer
+
         // var titledMessage = 'Hello World'
         // alert(titledMessage)
 
 
 // Q.10 - Write a script to save student's bio data in JS variables and show the data in alert boxes.
-    // Answer
+    //                          Answer
+
     // var bioData1 = 'Bio-Data(1)'
     // var bioData2 = 'Bio-Data(2)'
     // var bioData3 = 'Bio-Data(3)'
@@ -64,18 +73,21 @@
 
 
 // Q.11 - Declare a variable called email and assign to it a string that represents your Email Address (e.g example@example.com). Show the below mentioned message in an alert box.(Hint: use string concatenation)
-    // Answer
+    //                          Answer
+
     // var email = 'Sheryaarlong@gmail.com'
     // alert('Email: '+ email)
 
 
 // Q.12 - Write a script to display this in browser through JS.
-    // Answer
+    //                          Answer
+
     // See Q.13 for the Answer
 
 
 // Q.13 - Store following string in a variable and show in alert and browser through JS “▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”
-    // Answer
+    //                          Answer
+
     // var string = '▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬'
     // alert(string)
     // Answer No.12
@@ -83,25 +95,29 @@
 
 
 // Q.14 - Declare a variable called age & assign to it your age. Show your age in an alert box.
-    // Answer
+    //                          Answer
+
     // var age = 21
     // alert('Age: '+age)
 
 
 // Q.15 - Declare & initialize a variable to keep track of how many times a visitor has visited a web page. Show his/her number of visits on your web page. For example: “You have visited this site N times”.
-    // Answer
+    //                          Answer
+
     // var visit = 0
     // alert('You Have Visited this Site ' + visit++ + ' Number of Times.')
 
 
 // Q.16 - Declare a variable called birthYear & assign to it your birth year. Show the following message in your browser:
-    // Answer
+    //                          Answer
+
     // var birthYear = 2002
     // console.log('Birth Year: '+birthYear)
 
 
 // Q.17 - A visitor visits an online clothing store www.xyzClothing.com . Write a script to store in variables the following information: a. Visitor’s name b. Product title c. Quantity i.e. how many products a visitor wants to order Show the following message in your browser: “John Doe ordered 5 T-shirt(s) on XYZ Clothing store”.
-    // Answer
+    //                          Answer
+
     // var Name = 'Harry',
     // product = 'Cold Drink',
     // quantity = '10',
@@ -110,12 +126,13 @@
 
 
 // Q.18 - Declare 3 variables in one statement
-    // Answer
+    //                          Answer
+
     // var myFullName = 'Sheheryaar Ansar', myCourse = 'Web Development #1', myLocation = 'Bano Qabil 2.0-'
 
 
 // Q.19 - Declare 5 legal & 5 illegal variable names
-    // Answer
+    //                          Answer
 
 
 // Q.20 - Display this in your browser
@@ -124,11 +141,12 @@
     //c) Variables must begin with a ______, ______ or _____. For example $name, _name or name
     // d) Variable names are case _________
     // e) Variable names should not be JS _________
-    // Answer
+    //                          Answer
 
 
 // Q.21 - Write a program that take two numbers & add them in a new variable. Show the result in your browser
-    // Answer
+    //                          Answer
+
     // var program_1 = 10
     // var program_2 = 5
     // var program = program_1 + program_2
@@ -136,7 +154,7 @@
 
 
 // Q.22 - Repeat task21 for subtraction, multiplication, division & modulus.
-    // Answer
+    //                          Answer
 
     // For Substraction
     // var program_1 = 10
